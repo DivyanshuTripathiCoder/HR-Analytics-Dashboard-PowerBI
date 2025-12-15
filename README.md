@@ -1,12 +1,12 @@
 # HR-Analytics-Dashboard-PowerBI
 Interactive Power BI dashboard analyzing employee attrition patterns across 736 employees, identifying key retention risk factors and providing data-driven insights for HR strategy
-# HR Analytics Dashboard
 
 ## Overview
 This Power BI dashboard provides comprehensive analysis of employee attrition patterns across 736 employees. The project identifies key retention risk factors and delivers actionable insights to reduce the current 18.48% attrition rate through data-driven decision making.
 
 ## Dashboard Preview
-![Uploading HR Analytics Dashboard.png…]()
+<img width="1299" height="729" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/457c57a8-a9cb-4070-bc3c-038ef80170c1" />
+
 
 
 ## Problem Statement
